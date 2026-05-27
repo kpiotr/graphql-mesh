@@ -1,5 +1,31 @@
 # @omnigraph/openapi
 
+## 0.109.53
+
+### Patch Changes
+
+- [#9462](https://github.com/ardatan/graphql-mesh/pull/9462)
+  [`f39d6e2`](https://github.com/ardatan/graphql-mesh/commit/f39d6e2f647b1df4d2715366a809db3efbabdbb0)
+  Thanks [@yarinvak](https://github.com/yarinvak)! - Resolve inline OpenAPI discriminator mappings
+  in nested request and response schemas
+
+  Fixes [#9456](https://github.com/ardatan/graphql-mesh/issues/9456)
+
+- Updated dependencies
+  [[`1da4b45`](https://github.com/ardatan/graphql-mesh/commit/1da4b4592fb8611c90004419a4362fefac51d63f),
+  [`fa18e2d`](https://github.com/ardatan/graphql-mesh/commit/fa18e2dcb672c844274c6a0bef62a2f548402cfa),
+  [`1da4b45`](https://github.com/ardatan/graphql-mesh/commit/1da4b4592fb8611c90004419a4362fefac51d63f),
+  [`fa18e2d`](https://github.com/ardatan/graphql-mesh/commit/fa18e2dcb672c844274c6a0bef62a2f548402cfa),
+  [`1da4b45`](https://github.com/ardatan/graphql-mesh/commit/1da4b4592fb8611c90004419a4362fefac51d63f),
+  [`fa18e2d`](https://github.com/ardatan/graphql-mesh/commit/fa18e2dcb672c844274c6a0bef62a2f548402cfa),
+  [`1da4b45`](https://github.com/ardatan/graphql-mesh/commit/1da4b4592fb8611c90004419a4362fefac51d63f),
+  [`fa18e2d`](https://github.com/ardatan/graphql-mesh/commit/fa18e2dcb672c844274c6a0bef62a2f548402cfa),
+  [`c5aff34`](https://github.com/ardatan/graphql-mesh/commit/c5aff3416044c8deffb797edd37e079a3aa804ce)]:
+  - @graphql-mesh/fusion-composition@0.8.49
+  - @graphql-mesh/types@0.104.29
+  - @graphql-mesh/utils@0.104.37
+  - @omnigraph/json-schema@0.109.42
+
 ## 0.109.52
 
 ### Patch Changes
